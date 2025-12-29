@@ -13,7 +13,7 @@ const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyIJwHYxoSBCJEL
 
 /*****************************************************/
 
-const SAMPLE_SIZE = 23;
+const SAMPLE_SIZE = 10;
 let currentImage = 0;
 let responses = [];
 let participant = { gender: "", age: "" };
